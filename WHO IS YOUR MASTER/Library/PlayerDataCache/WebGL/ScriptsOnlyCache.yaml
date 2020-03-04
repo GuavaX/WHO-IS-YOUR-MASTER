@@ -69,6 +69,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 90
       Script: {instanceID: 0}
     - Class: 91
@@ -148,6 +150,8 @@ ScriptsOnlyBuild:
     - Class: 224
       Script: {instanceID: 0}
     - Class: 238
+      Script: {instanceID: 0}
+    - Class: 258
       Script: {instanceID: 0}
     "Assets/Scenes/\u9078\u64C7\u904A\u6232\u6A21\u5F0F\u53CA\u89D2\u8272.unity":
     - Class: 1
