@@ -38,7 +38,7 @@ public class FatherAI : MonoBehaviour
     void Update()
     {
         if (SelectRole.selectOver == false) { return; }
-        
+        if (SelectRole.GetRole() == "father") { return; }
 
         if (SelectRole.GetRole() == "tiger") { nav.enabled = true;}
         if (SelectRole.GetRole() == "father") { nav.enabled = false;}

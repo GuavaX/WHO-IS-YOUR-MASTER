@@ -31,6 +31,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -1067,4 +1068,4 @@ ScriptsOnlyBuild:
   - "Assets/Scenes/\u958B\u59CB\u5834\u666F.unity"
   - "Assets/Scenes/\u9078\u64C7\u904A\u6232\u6A21\u5F0F\u53CA\u89D2\u8272.unity"
   - "Assets/Scenes/PK\u5834\u666F.unity"
-  playerPath: C:/Users/User/Documents/GitHub/WHO-IS-YOUR-MASTER-Web
+  playerPath: C:/Users/User/Documents/GitHub/WHO-IS-YOUR-MASTER/WIYM-Web
